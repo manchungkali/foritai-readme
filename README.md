@@ -19,5 +19,5 @@ The first version of [forit.ai](https://forit.ai) features:
 
 ## Invitation for Feedback
 
-I invite everyone to use [forit.c ai](https://forit.ai) and share your feedback. Your suggestions are invaluable as we strive to improve and evolve to meet user needs. Please explore the various tools and let us know how we can make [forit.ai](https://forit.ai) even better.
+I invite everyone to use [forit.ai](https://forit.ai) and share your feedback. Your suggestions are invaluable as we strive to improve and evolve to meet user needs. Please explore the various tools and let us know how we can make [forit.ai](https://forit.ai) even better.
 
